@@ -510,7 +510,7 @@ footer div.container a:hover {
   /* ------------- */
 
   /*  section 1 */
-  h3 {
+  h2 {
     font-size: 1.7em;
   }
   .desktop {
@@ -522,7 +522,7 @@ footer div.container a:hover {
   section {
     padding: 50px 0;
   }
-  section h3 {
+  section h2 {
     position: static;
     top: 0px;
     width: 100%;
@@ -606,7 +606,7 @@ footer div.container a:hover {
     justify-content: center;
     flex-direction: column;
   }
-  aside .container h3 {
+  aside .container h2 {
     text-align: center;
     color: var(--text);
   }
