@@ -41,7 +41,6 @@ li {
   margin: auto;
   padding: 0 20px;
 }
-h4,
 h3 {
   color: var(--headings);
 }
@@ -420,9 +419,10 @@ footer div.container {
 footer div.container > * {
   width: 25%;
 }
-footer div.container h5 {
+footer div.container h3 {
   font-size: 1em;
   margin-bottom: 30px;
+  color: var(--text);
 }
 footer div.container a {
   display: block;
